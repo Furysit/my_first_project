@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(205, 176, 233);
+}
+
+ul{
+    list-style-type: none;
+    text-align: center;
+    padding: 0px;
+    margin-top: 20px;
+}
+
+li {
+    display: inline;
+    margin-right: 100px;
+}
+
+li:last-child {
+    margin-right: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+    font-size: 20px;
+    font: 400;
+}
+
+span {
+    color: red;
+}
+
+nav {
+    margin-bottom: 50px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+
+}
+.main_photos img {
+width: 500px;
+}
+
+.container {
+    margin: 0 auto;
+    width: 1200px;
+}
